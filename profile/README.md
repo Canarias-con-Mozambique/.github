@@ -6,7 +6,7 @@ Página web: https://www.canariasconmozambique.org
 
 Puedes echar un vistazo a las [memorias anuales](https://github.com/Canarias-con-Mozambique/recursos) también.
 
-[Memoria Anual 2023](https://github.com/Canarias-con-Mozambique/recursos/blob/main/memorias-anuales/Canarias_con_Mozambique_Memoria_Anual_2023.pdf).
+[Memoria Anual 2024](https://github.com/Canarias-con-Mozambique/recursos/blob/main/memorias-anuales/Canarias_con_Mozambique_Memoria_Anual_2024.pdf).
 
 ### 👩‍💻 Recursos
 
